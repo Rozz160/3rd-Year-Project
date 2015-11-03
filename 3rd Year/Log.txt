@@ -1,0 +1,19 @@
+SDL Initiated.
+Video Initiated.
+OPENGL Version:  4.2.11631 Compatibility Profile Context
+OPENGL Renderer:  AMD Radeon HD 6800 Series
+OPENGL Vendor:  ATI Technologies Inc.
+Texture/desert2.bmp loaded.
+Object Loaded: Texture/Wheel2.obj
+7616 5802 5952 3
+Object Loaded: Texture/Chassis.obj
+16095 12327 14205 18
+Heightmap List Built.
+Video Initiated.
+Skybox/s3/skyrender0004.bmp loaded.
+Skybox/s3/skyrender0002.bmp loaded.
+Skybox/s3/skyrender0001.bmp loaded.
+Skybox/s3/skyrender0005.bmp loaded.
+Skybox/s3/skyrender0003.bmp loaded.
+Skybox/s3/skyrender0006.bmp loaded.
+Skybox1 texture Deleted
